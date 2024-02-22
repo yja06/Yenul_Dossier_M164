@@ -4,7 +4,7 @@ Die Wissenstreppe beschreibt die Transformation von Daten zu Informationen, Wiss
 
 1. **Zeichen:** Rohdaten oder Fakten unstruckturiert, z.B. `1.50`, `CHF`, `USD`.
 2. **Daten:** Rohdaten oder Fakten struckturiet, z.B. `1.50`, `CHF`, `USD`.
-3. **Informationen:** Kontextualisierte Daten, z.B. "1.13 USD ist der Wechselkurs für 1 EUR am 22.02.2024."
+3. **Informationen:** Kontextualisierte Daten, z.B. "1.50 CHF ist der Wechselkurs für 1 USD am 22.02.2024."
 4. **Wissen:** Verarbeitete Informationen, Analyse, z.B. "Der Wechselkurs von EUR zu USD ist im Vergleich zum Vormonat um 0.02 gestiegen."
 5. **Kompetenz:**
 6. **Handeln:** Angewandtes Wissen und Verständnis, Entscheidungen.
