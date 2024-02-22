@@ -2,11 +2,12 @@
 
 Die Wissenstreppe beschreibt die Transformation von Daten zu Informationen, Wissen, und schließlich Weisheit. Hier sind die Stufen der Reihe nach, illustriert am Beispiel eines Wechselkurses:
 
-1. **Zeichen/Daten:** Rohdaten oder Fakten, z.B. `1.13`, `EUR`, `USD`.
-2. **Informationen:** Kontextualisierte Daten, z.B. "1.13 USD ist der Wechselkurs für 1 EUR am 22.02.2024."
-3. **Wissen:** Verarbeitete Informationen, Analyse, z.B. "Der Wechselkurs von EUR zu USD ist im Vergleich zum Vormonat um 0.02 gestiegen."
-4. **Verständnis:** Tieferes Einsicht, Ursachen, z.B. "Der Anstieg des Wechselkurses könnte auf eine Stärkung der europäischen Wirtschaft zurückzuführen sein."
-5. **Weisheit:** Angewandtes Wissen und Verständnis, Entscheidungen, z.B. "Basierend auf der aktuellen Entwicklung könnte es eine gute Zeit sein, in Euro zu investieren."
+1. **Zeichen:** Rohdaten oder Fakten unstruckturiert, z.B. `1.13`, `EUR`, `USD`.
+2. **Daten:** Rohdaten oder Fakten struckturiet, z.B. `1.13`, `EUR`, `USD`.
+3. **Informationen:** Kontextualisierte Daten, z.B. "1.13 USD ist der Wechselkurs für 1 EUR am 22.02.2024."
+4. **Wissen:** Verarbeitete Informationen, Analyse, z.B. "Der Wechselkurs von EUR zu USD ist im Vergleich zum Vormonat um 0.02 gestiegen."
+5. **Kompetenz:**
+6. **Handeln:** Angewandtes Wissen und Verständnis, Entscheidungen.
 
 #### Netzwerk-Beziehungen im Logischen Modell
 ER-Diagramme bilden Netzwerk-Beziehungen ab, mit Entitäten als Knoten und Beziehungen als Kanten.
