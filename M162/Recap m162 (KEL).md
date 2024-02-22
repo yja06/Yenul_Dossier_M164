@@ -22,7 +22,7 @@ Anomalien in einer Datenbasis beziehen sich auf Inkonsistenzen oder Fehler in de
 
 ### Redundante Daten
 
-Redundante Daten sind mehrfach vorkommende Daten in einer Datenbank. Sie können zu Inkonsistenzen führen, aber auch zur Verbesserung der Abfrageleistung oder zur Gewährleistung der Datenintegrität durch Redundanz beitragen.
+Redundante Daten bedeuten, dass dieselbe Information mehrfach in einer Datenbank vorhanden ist. Auf der einen Seite kann das zu Problemen führen, weil es schwieriger wird, die Datenbank aktuell und korrekt zu halten. Wenn sich eine Information ändert, muss sie an mehreren Stellen geändert werden, was zu Fehlern führen kann. Auf der anderen Seite kann Redundanz auch hilfreich sein. Sie kann die Geschwindigkeit verbessern, mit der Daten abgefragt werden, da die Daten leichter zugänglich sind. Außerdem kann sie dabei helfen, wichtige Informationen zu sichern, falls andere Daten verloren gehen.
 
 ### Datenstrukturierung
 
