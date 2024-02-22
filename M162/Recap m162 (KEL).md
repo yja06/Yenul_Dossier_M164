@@ -27,3 +27,13 @@ Redundante Daten sind mehrfach vorkommende Daten in einer Datenbank. Sie können
 ### Datenstrukturierung
 
 Bei der Datenstrukturierung können **Daten** und **Beziehungen** strukturiert werden. Die Strukturierung kann in Kategorien wie **unstrukturiert**, **semi-strukturiert** und **strukturiert** unterteilt werden. In einer Datenbank müssen Daten **strukturiert** sein, um effiziente Abfragen, Speicherung und Analyse zu ermöglichen. Dies umfasst die Definition von Tabellen, Spalten und Datentypen sowie die Beziehungen zwischen den Tabellen.
+
+# Mitarbeiter
+
+|MitarbeiterId|Vorname|Nachname|Alter|Abteilungskürzel|
+|-------------|-------|--------|-----|----------------|
+|1            |Gustav |Meier   |22   |MA              |
+|2            |Ida    |Kuhler  |34   |MA              |
+|3            |Sylvia |Brendel |28   |IT              |
+|4            |Walter |Morani  |55   |IT              |
+|5            |Beat   |Merz    |18   |IT              |
