@@ -25,13 +25,12 @@ Daten in einer Datenbank müssen für effizientes Arbeiten strukturiert sein: Ta
 
 ![Mitarbeitertabelle](https://gitlab.com/ch-tbz-it/Stud/m164/-/raw/main/10_Auftraege_und_Uebungen/00_Start/Recap_Fragen/Tabelle_labelled.png "Mitarbeitertabelle")
 
-1. **Tabellenname**: Der Name der Tabelle in der Datenbank, hier bezeichnet als "Mitarbeiter".
+1. **Tabellenname/Entität**
 
-2. **Spalten/Attribute**: Die einzelnen Spalten der Tabelle werden durch diese Linien markiert und repräsentieren die Attribute der Datenbanktabelle. Die Attribute in dieser Tabelle sind "MitarbeiterId", "Vorname", "Nachname", "Alter" und "Abteilungskürzel".
+2. **Datensatz**
 
-3. **Primärschlüssel (Primary Key)**: Diese Linie könnte darauf hinweisen, dass "MitarbeiterId" als Primärschlüssel dient – ein einzigartiges Identifikationsmerkmal für jeden Datensatz in der Tabelle.
+3. **Attribute**
 
-4. **Datensatz/Zeile (Record/Row)**: Diese Linie deutet auf einen einzelnen Datensatz oder eine Zeile in der Tabelle hin. Jeder Datensatz ist eine einzelne Einheit, die Informationen über einen Mitarbeiter enthält.
-
-5. **Fußzeile/Bemerkungsbereich**: Hier könnte eine Fußzeile oder ein Bereich für Bemerkungen oder zusätzliche Informationen über die Tabelle angegeben sein, obwohl dies in der Praxis nicht üblich ist.
-
+4. **Wert**
+   
+5. **ERD**
