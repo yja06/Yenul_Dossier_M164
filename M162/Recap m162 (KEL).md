@@ -8,25 +8,19 @@ Die Wissenstreppe beschreibt die Transformation von Daten zu Informationen, Wiss
 4. **Verständnis:** Tieferes Einsicht, Ursachen, z.B. "Der Anstieg des Wechselkurses könnte auf eine Stärkung der europäischen Wirtschaft zurückzuführen sein."
 5. **Weisheit:** Angewandtes Wissen und Verständnis, Entscheidungen, z.B. "Basierend auf der aktuellen Entwicklung könnte es eine gute Zeit sein, in Euro zu investieren."
 
-### Netzwerk-Beziehungen im logischen Modell
+#### Netzwerk-Beziehungen im Logischen Modell
+ER-Diagramme bilden Netzwerk-Beziehungen ab, mit Entitäten als Knoten und Beziehungen als Kanten.
 
-Netzwerk-Beziehungen im logischen Modell werden üblicherweise durch Entitäten und Relationen abgebildet, z.B. mittels ER-Diagrammen (Entity-Relationship-Diagramme), wo Entitäten durch Knoten und die Beziehungen zwischen diesen durch Kanten repräsentiert werden.
+#### Anomalien in einer Datenbasis
+- **Einfügeanomalie:** Probleme beim Hinzufügen neuer Daten.
+- **Löschanomalie:** Datenverlust beim Löschen verknüpfter Informationen.
+- **Änderungsanomalie:** Inkonsistenzen durch Datenänderungen.
 
-### Anomalien in einer Datenbasis
+#### Redundante Daten
+Redundanz kann sowohl Fehleranfälligkeit als auch Zugriffsgeschwindigkeit und Datensicherheit beeinflussen.
 
-Anomalien in einer Datenbasis beziehen sich auf Inkonsistenzen oder Fehler in den Daten. Es gibt mehrere Arten:
-
-- **Einfügeanomalie:** Schwierigkeiten beim Hinzufügen neuer Daten aufgrund der Struktur der Datenbank.
-- **Löschanomalie:** Verlust von Daten über eine Entität beim Löschen von Informationen einer anderen Entität.
-- **Änderungsanomalie:** Inkonsistenzen, die durch die Änderung von Daten in einer Datenbank entstehen.
-
-### Redundante Daten
-
-Redundante Daten bedeuten, dass dieselbe Information mehrfach in einer Datenbank vorhanden ist. Auf der einen Seite kann das zu Problemen führen, weil es schwieriger wird, die Datenbank aktuell und korrekt zu halten. Wenn sich eine Information ändert, muss sie an mehreren Stellen geändert werden, was zu Fehlern führen kann. Auf der anderen Seite kann Redundanz auch hilfreich sein. Sie kann die Geschwindigkeit verbessern, mit der Daten abgefragt werden, da die Daten leichter zugänglich sind. Außerdem kann sie dabei helfen, wichtige Informationen zu sichern, falls andere Daten verloren gehen.
-
-### Datenstrukturierung
-
-Bei der Datenstrukturierung können **Daten** und **Beziehungen** strukturiert werden. Die Strukturierung kann in Kategorien wie **unstrukturiert**, **semi-strukturiert** und **strukturiert** unterteilt werden. In einer Datenbank müssen Daten **strukturiert** sein, um effiziente Abfragen, Speicherung und Analyse zu ermöglichen. Dies umfasst die Definition von Tabellen, Spalten und Datentypen sowie die Beziehungen zwischen den Tabellen.
+#### Datenstrukturierung
+Daten in einer Datenbank müssen für effizientes Arbeiten strukturiert sein: Tabellen, Spalten, Datentypen und Tabellenbeziehungen.
 
 ![Mitarbeitertabelle](https://gitlab.com/ch-tbz-it/Stud/m164/-/raw/main/10_Auftraege_und_Uebungen/00_Start/Recap_Fragen/Tabelle_labelled.png "Mitarbeitertabelle")
 
