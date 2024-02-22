@@ -29,3 +29,14 @@ Redundante Daten sind mehrfach vorkommende Daten in einer Datenbank. Sie können
 Bei der Datenstrukturierung können **Daten** und **Beziehungen** strukturiert werden. Die Strukturierung kann in Kategorien wie **unstrukturiert**, **semi-strukturiert** und **strukturiert** unterteilt werden. In einer Datenbank müssen Daten **strukturiert** sein, um effiziente Abfragen, Speicherung und Analyse zu ermöglichen. Dies umfasst die Definition von Tabellen, Spalten und Datentypen sowie die Beziehungen zwischen den Tabellen.
 
 ![Mitarbeitertabelle](https://gitlab.com/ch-tbz-it/Stud/m164/-/raw/main/10_Auftraege_und_Uebungen/00_Start/Recap_Fragen/Tabelle_labelled.png "Mitarbeitertabelle")
+
+1. **Tabellenname**: Der Name der Tabelle in der Datenbank, hier bezeichnet als "Mitarbeiter".
+
+2. **Spalten/Attribute**: Die einzelnen Spalten der Tabelle werden durch diese Linien markiert und repräsentieren die Attribute der Datenbanktabelle. Die Attribute in dieser Tabelle sind "MitarbeiterId", "Vorname", "Nachname", "Alter" und "Abteilungskürzel".
+
+3. **Primärschlüssel (Primary Key)**: Diese Linie könnte darauf hinweisen, dass "MitarbeiterId" als Primärschlüssel dient – ein einzigartiges Identifikationsmerkmal für jeden Datensatz in der Tabelle.
+
+4. **Datensatz/Zeile (Record/Row)**: Diese Linie deutet auf einen einzelnen Datensatz oder eine Zeile in der Tabelle hin. Jeder Datensatz ist eine einzelne Einheit, die Informationen über einen Mitarbeiter enthält.
+
+5. **Fußzeile/Bemerkungsbereich**: Hier könnte eine Fußzeile oder ein Bereich für Bemerkungen oder zusätzliche Informationen über die Tabelle angegeben sein, obwohl dies in der Praxis nicht üblich ist.
+
